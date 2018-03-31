@@ -7,5 +7,5 @@ PowerShell Keylogger records keystrokes both in xml and txt files.
 *Execute PowerShell command "Set-ExecutionPolicy remoteSigned"*
 
 ## Usage
-Execute PowerShell command ".\keylogger.ps1" to start KeyLogger __
+Execute PowerShell command ".\keylogger.ps1" to start KeyLogger <br />
 Press "CTRL + C" to stop

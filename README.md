@@ -5,7 +5,7 @@
 *When it starts
 
 ## Execution-Policy Problem
- In case of "this file is not digitally signed" exception.
+*In case of "this file is not digitally signed" exception.*
 
 *Execute PowerShell command "Set-ExecutionPolicy remoteSigned"*
 

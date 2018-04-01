@@ -46,7 +46,7 @@ public static extern int ToUnicode(uint wVirtKey, uint wScanCode, byte[] lpkeyst
 		{
 			Start-Sleep -Milliseconds 20
       
-			# scan  ASCII codes between 8 and 128
+			# scan  ASCII codes between 8 and 129
 			for ($ascii = 9; $ascii -le 128; $ascii++) 
 			{
 				# get current key state

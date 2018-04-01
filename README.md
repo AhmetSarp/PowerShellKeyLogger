@@ -10,6 +10,5 @@
 *Execute PowerShell command "Set-ExecutionPolicy remoteSigned"*
 
 ## Usage
-*Execute PowerShell command ".\keylogger.ps1" to start KeyLogger <br /> <br />
-Press "CTRL + C" to stop
-*
+*Execute PowerShell command ".\keylogger.ps1" to start KeyLogger <br /> <br />*
+*Press "CTRL + C" to stop*

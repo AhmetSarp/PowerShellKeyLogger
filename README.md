@@ -15,7 +15,7 @@
 *Press "CTRL + C" to stop*  <br /> <br />
 ##### Example Usage
 *There is a screenshots for demo.* <br /> <br />
-<img src="![2](https://user-images.githubusercontent.com/25460311/38175424-fbb43e76-35e4-11e8-898e-10050b2274fb.PNG)" height="480" width="480">  <br /> <br />
-<img src="![3](https://user-images.githubusercontent.com/25460311/38175427-feb5f3ee-35e4-11e8-996a-628714a3edba.PNG)" height="480" width="480"> <br /> <br />
-<img src="![4](https://user-images.githubusercontent.com/25460311/38175428-042fe6f4-35e5-11e8-8575-9f7461fcd644.PNG)" height="480" width="480"> <br /> <br />
+![2](https://user-images.githubusercontent.com/25460311/38175424-fbb43e76-35e4-11e8-898e-10050b2274fb.PNG)<br /> <br />
+![3](https://user-images.githubusercontent.com/25460311/38175427-feb5f3ee-35e4-11e8-996a-628714a3edba.PNG)<br /> <br />
+![4](https://user-images.githubusercontent.com/25460311/38175428-042fe6f4-35e5-11e8-8575-9f7461fcd644.PNG)<br /> <br />
 

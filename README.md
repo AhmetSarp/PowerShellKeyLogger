@@ -11,7 +11,7 @@
 
 ## Usage
 *Execute PowerShell command ".\keylogger.ps1" to start KeyLogger <br /> <br />*
-*Press "CTRL + C" to stop*  <br /> <br />*
+*Press "CTRL + C" to stop*  <br /> <br />
 ##### Example Usage
 
 
